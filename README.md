@@ -49,7 +49,8 @@ C++要使用Python的扩展模块，那只能去从源码构建一遍Opencv
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
-在终端输入这个就可以永久换成清华源，当然**https://pypi.tuna.tsinghua.edu.cn/simple**这一串地址也可以改成其他的比如豆瓣、阿里......这里我就不详细把网址给出来，去网上搜一下很容易就找到。
+在终端输入这个就可以永久换成清华源，当然https://pypi.tuna.tsinghua.edu.cn/simple
+这一串地址也可以改成其他的比如豆瓣、阿里......这里我就不详细把网址给出来，去网上搜一下很容易就找到。
 
 如过不想永久换源
 
